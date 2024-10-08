@@ -1,11 +1,9 @@
 [![MasterHead](https://camo.githubusercontent.com/5a51e293c9f568a66c3ccf3f4eb397c77706120b077be0cabca9f0bd271374dd/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334443132415145536a37322d733567454b672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313632363735333836373131303f653d3231343734383336343726763d6265746126743d4b6637594175775a74794347594c4e63682d4d676335654f432d376837754c5f646e424149677341465251)]
 
-<h1 align="center">Hi 👋, I'm Piyush</h1>
-<h3 align="center">Data Science Enthusiast | Analytical Thinker | Problem Solver</h3>
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushsureka&label=Profile%20views&color=0e75b6&style=flat" alt="piyushsureka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushsureka" alt="piyushsureka" /></a> </p>
+<h1 align="center">Hi 👋, I'm Piyush Kumar Sureka</h1>
+<h3 align="center">Data Science Enthusiast | Analytical Thinker | Problem Solver</h3>
+<img align="right" alt="Coding" width="300" height="200" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🔭 I'm currently working at **Mphasis**
 
@@ -16,6 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piyush-sureka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-sureka" height="30" width="40" /></a>
+<a href="https://kaggle.com/piyushkumarsureka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="piyushkumarsureka" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/piyushsureka801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="piyushsureka801" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/piyushsureka801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyushsureka801" height="30" width="40" /></a>
 </p>
 
